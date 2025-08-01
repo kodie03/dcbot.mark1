@@ -1,2 +1,2 @@
-# dcbot.mark1
+# kodibot_mk1
 First Discord Bot
