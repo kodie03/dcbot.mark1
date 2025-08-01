@@ -139,6 +139,6 @@ async def party(ctx):
     party_gif_url = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2pndG9tM3NqZzJ0Z25yNTRtbzJvMXE1a293Z2d6NHk2Z3lqcmVvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IwSGgA17jDq28/giphy.gif"
     await ctx.send(party_gif_url)
 
-
+#sige update naten kunwari
 
 #bot.run(token, log_handler=handler, log_level=logging.DEBUG)
